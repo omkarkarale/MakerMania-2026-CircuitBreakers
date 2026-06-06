@@ -16,15 +16,15 @@
 
 ## 1.1 Team Name and Photo
 
----
+[image]images/team.jpeg
 
 ## 1.2 Team Members
 
-| Name | Role | Skills |
-| ---- | ---- | ------ |
-|      |      |        |
-|      |      |        |
-|      |      |        |
+|      Name          | Role |Department| Skills |
+| ------------------ | ---- | -------- |--------|
+|  Ekansh Bansode    |      |    ECS   |        |
+|  Omkar Karale      |      |    ECS   |        |
+|  Rajnarayan Hazra  |      |    ECS   |        |
 
 ---
 
