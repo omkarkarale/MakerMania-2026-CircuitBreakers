@@ -1,3 +1,5 @@
+[AD Link](https://youtu.be/VeL1t_9wYrM?si=e5plWxUvcQX88zFm)
+
 # MAKERMANIA 2026
 
 ## Innovation Project Workbook
