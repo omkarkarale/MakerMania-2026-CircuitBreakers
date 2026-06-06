@@ -16,8 +16,7 @@
 
 ## 1.1 Team Name and Photo
 
-[image]images/team.jpeg
-
+<img src="screenshot.png" alt="Alt description" width="400">
 ## 1.2 Team Members
 
 |      Name          | Role |Department | Skills |
