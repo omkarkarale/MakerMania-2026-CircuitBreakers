@@ -20,11 +20,11 @@
 
 ## 1.2 Team Members
 
-|      Name          | Role |Department| Skills |
-| ------------------ | ---- | -------- |--------|
-|  Ekansh Bansode    |      |    ECS   |        |
-|  Omkar Karale      |      |    ECS   |        |
-|  Rajnarayan Hazra  |      |    ECS   |        |
+|      Name          | Role |Department | Skills |
+| ------------------ | ---- | --------- |--------|
+|  Ekansh Bansode    |      |  ECS      |        |
+|  Omkar Karale      |      |  ECS      |        |
+|  Rajnarayan Hazra  |      |  ECS      |        |
 
 ---
 
