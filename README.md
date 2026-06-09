@@ -49,7 +49,7 @@ Where did you conduct your observations?
 
 ### Activities
 
-What are users doing?
+Esp32 Led chaser.
 
 ### Environment
 
