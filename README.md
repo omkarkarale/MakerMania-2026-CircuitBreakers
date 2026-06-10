@@ -50,6 +50,7 @@ Where did you conduct your observations?
 ### Activities
 
 Esp32 Led chaser.
+Potentiometer led
 
 ### Environment
 
