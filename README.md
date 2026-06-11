@@ -54,6 +54,8 @@ Where did you conduct your observations?
 Esp32 Led chaser.
 <br>
 Potentiometer led
+<br>
+Binary Counter
 
 ### Environment
 
