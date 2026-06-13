@@ -22,7 +22,7 @@
 <p align="center">
   <strong>Program Duration:</strong> 1 June 2026 – 4 July 2026 &nbsp;·&nbsp;
   <strong>Location:</strong> MBF Tinkerers' Lab 007 &nbsp;·&nbsp;
-  <strong>Team Size:</strong> 3–5 Students
+  <strong>Team Size:</strong> 3 Students
 </p>
 
 <p align="center">
