@@ -4,44 +4,22 @@
   <img src="https://img.shields.io/badge/Department-ECS-green?style=for-the-badge" alt="ECS Department"/>
 </p>
 
-## 🛠️ Technologies Used
+<div align="center">
 
-<p align="center">
-  <a href="https://www.arduino.cc/" title="Arduino IDE">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino"/><br>
-    <sub><b>Arduino IDE</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.espressif.com/en/products/socs/esp32" title="ESP32">
-    <img src="https://cdn.simpleicons.org/espressif/E7352C" width="48" height="48" alt="ESP32"/><br>
-    <sub><b>ESP32</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://isocpp.org/" title="C++">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++"/><br>
-    <sub><b>C++</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.autodesk.com/products/fusion-360/overview" title="Fusion 360">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/autodesk/autodesk-original.svg" width="48" height="48" alt="Fusion 360"/><br>
-    <sub><b>Fusion 360</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="48" height="48" alt="GitHub"/><br>
-    <sub><b>GitHub</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.canva.com/" title="Canva">
-    <img src="https://cdn.simpleicons.org/canva/00C4CC" width="48" height="48" alt="Canva"/><br>
-    <sub><b>Canva</b></sub>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a title="LaserCAD">
-    <img src="https://cdn.simpleicons.org/inkscape/000000" width="48" height="48" alt="LaserCAD"/><br>
-    <sub><b>LaserCAD</b></sub>
-  </a>
-</p>
+### 🛠️ Technologies Used
+
+[![Arduino IDE](https://img.shields.io/badge/Arduino-IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
+[![ESP32](https://img.shields.io/badge/ESP32-Microcontroller-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
+[![C++](https://img.shields.io/badge/C++-Firmware-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![Fusion 360](https://img.shields.io/badge/Fusion_360-3D_CAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360/overview)
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Canva](https://img.shields.io/badge/Canva-Presentation-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
+[![LaserCAD](https://img.shields.io/badge/LaserCAD-Laser_Cutting-D35400?style=for-the-badge&logo=adobe&logoColor=white)]()
+
+</div>
 
 <h1 align="center">⚡ Circuit Breakers</h1>
 <h3 align="center">MakerMania 2026 — Innovation Project Workbook</h3>
