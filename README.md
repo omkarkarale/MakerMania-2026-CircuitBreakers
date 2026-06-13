@@ -80,11 +80,11 @@ MakerMania-2026-CircuitBreakers/
 >
 > *Add your team photo below once uploaded to `images/`.*
 >
-> ```html
+> 
 > <p align="center">
 >   <img src="images/team-photo.jpg" width="500" alt="Circuit Breakers Team Photo">
 > </p>
-> ```
+> 
 
 ## 1.2 Team Members
 
