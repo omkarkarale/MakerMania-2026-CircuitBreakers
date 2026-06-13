@@ -1,3 +1,6 @@
+<h1 align="center">⚡ Circuit Breakers</h1>
+<h3 align="center">MakerMania 2026 — Innovation Project Workbook</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/MakerMania-2026-blue?style=for-the-badge" alt="MakerMania 2026"/>
   <img src="https://img.shields.io/badge/Team-Circuit%20Breakers-orange?style=for-the-badge" alt="Team Circuit Breakers"/>
@@ -12,17 +15,9 @@
 [![ESP32](https://img.shields.io/badge/ESP32-Microcontroller-E7352C?style=for-the-badge&logo=espressif&logoColor=white)](https://www.espressif.com/en/products/socs/esp32)
 [![C++](https://img.shields.io/badge/C++-Firmware-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
 [![Fusion 360](https://img.shields.io/badge/Fusion_360-3D_CAD-0696D7?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/fusion-360/overview)
-
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
-[![Canva](https://img.shields.io/badge/Canva-Presentation-00C4CC?style=for-the-badge&logo=canva&logoColor=white)](https://www.canva.com/)
 [![LaserCAD](https://img.shields.io/badge/LaserCAD-Laser_Cutting-D35400?style=for-the-badge&logo=adobe&logoColor=white)]()
 
 </div>
-
-<h1 align="center">⚡ Circuit Breakers</h1>
-<h3 align="center">MakerMania 2026 — Innovation Project Workbook</h3>
 
 <p align="center">
   <strong>Program Duration:</strong> 1 June 2026 – 4 July 2026 &nbsp;·&nbsp;
